@@ -12,3 +12,11 @@ steps:
        jdkDirectory: /usr/lib/jvm/java-17-openjdk-amd64
        mavenVersionOption: 'Path'
        mavenDirectory:  /opt/maven
+           
+
+
+
+
+
+
+           nagamanii 
